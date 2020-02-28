@@ -1,0 +1,4 @@
+#Fri Feb 28 16:37:03 CST 2020
+base.0=/Users/Duder/Documents/OculusNew/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
